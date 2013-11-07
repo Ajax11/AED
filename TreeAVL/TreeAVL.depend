@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1380227274 source:c:\users\labd-15\desktop\treeavl\main.cpp
+	<iostream>
+	"CTreeAVL.h"
+
+1380849691 c:\users\labd-15\desktop\treeavl\ctreeavl.h
+	<stdlib.h>
+	<time.h>
+	"CTrait.h"
+	<vector>
+	<stack>
+
+1380828158 c:\users\labd-15\desktop\treeavl\ctrait.h
+	"CNode.h"
+
+1380828268 c:\users\labd-15\desktop\treeavl\cnode.h
+
+1380986442 source:f:\san pablo\4 semestre\aed\estructuras\treeavl\main.cpp
+	<iostream>
+	"CTreeAVL.h"
+
+1380986440 f:\san pablo\4 semestre\aed\estructuras\treeavl\ctreeavl.h
+	<stdlib.h>
+	<time.h>
+	"CTrait.h"
+	<vector>
+	<stack>
+	<stdlib.h>
+
+1380986439 f:\san pablo\4 semestre\aed\estructuras\treeavl\ctrait.h
+	"CNode.h"
+
+1380986438 f:\san pablo\4 semestre\aed\estructuras\treeavl\cnode.h
+
