@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1378500618 source:/media/guest-3ydAmY/KINGSTON/Tree/main.cpp
+	<iostream>
+	"CNode.h"
+
+1378501207 /media/guest-3ydAmY/KINGSTON/Tree/CNode.h
+	"CTree.h"
+
+1378501183 /media/guest-3ydAmY/KINGSTON/Tree/CTree.h
+
+1380220849 source:f:\san pablo\4 semestre\aed\estructuras\tree\main.cpp
+	<iostream>
+	<vector>
+	"CTest.h"
+	<stack>
+
+1380206674 f:\san pablo\4 semestre\aed\estructuras\tree\cnode.h
+
+1380220825 f:\san pablo\4 semestre\aed\estructuras\tree\ctree.h
+	"CTraits.h"
+	<stdlib.h>
+	<time.h>
+	"CTreeIterator.h"
+
+1380220707 f:\san pablo\4 semestre\aed\estructuras\tree\ctraits.h
+	"CNode.h"
+
+1379028706 source:g:\4 semestre\aed\tree\main.cpp
+	<iostream>
+	"CTree.h"
+	<stdlib.h>
+	<time.h>
+
+1379028780 g:\4 semestre\aed\tree\ctree.h
+	"CTraits.h"
+	<stdlib.h>
+	<time.h>
+
+1379004788 g:\4 semestre\aed\tree\ctraits.h
+	"CNode.h"
+
+1379028764 g:\4 semestre\aed\tree\cnode.h
+
+1379617944 source:c:\users\labd-15\desktop\tree\main.cpp
+	<iostream>
+	<vector>
+	"CTreeIterator.h"
+	<stack>
+
+1379016667 c:\users\labd-15\desktop\tree\ctree.h
+	"CTraits.h"
+	<stdlib.h>
+	<time.h>
+
+1379016667 c:\users\labd-15\desktop\tree\ctraits.h
+	"CNode.h"
+
+1379017226 c:\users\labd-15\desktop\tree\cnode.h
+
+1379017610 c:\users\labd-15\desktop\tree\ctest.h
+	<assert.h>
+	"CTree.h"
+	"CTraits.h"
+
+1380206674 f:\san pablo\4 semestre\aed\estructuras\tree\ctest.h
+	<assert.h>
+	"CTree.h"
+	"CTraits.h"
+
+1380220805 f:\san pablo\4 semestre\aed\estructuras\tree\ctreeiterator.h
+	<stack>
+	<list>
+	<vector>
+
+1379621852 c:\users\labd-15\desktop\tree\ctreeiterator.h
+	<stack>
+	<list>
+	<vector>
+	"CNode.h"
+
+1380201522 source:j:\tree\main.cpp
+	<iostream>
+	<vector>
+	"CTest.h"
+	<stack>
+
+1380201406 j:\tree\ctreeiterator.h
+	<stack>
+	<list>
+	<vector>
+	"CNode.h"
+
+1380201480 j:\tree\cnode.h
+
+1380201788 j:\tree\ctest.h
+	<assert.h>
+	"CTree.h"
+	"CTraits.h"
+
+1380201732 j:\tree\ctree.h
+	"CTraits.h"
+	<stdlib.h>
+	<time.h>
+
+1380201812 j:\tree\ctraits.h
+	"CNode.h"
+
