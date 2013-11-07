@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1377960628 source:i:\aed\linked list\main.cpp
+	<iostream>
+	<assert.h>
+	"CListTraits.h"
+	"C_List.h"
+
+1378220370 i:\aed\linked list\clisttraits.h
+	"CLess.h"
+	"CGreader.h"
+
+1377686792 i:\aed\linked list\cless.h
+
+1377686696 i:\aed\linked list\cgreader.h
+
+1378383982 i:\aed\linked list\c_list.h
+	<iostream>
+	"CListIterator.h"
+
+1377570664 i:\aed\linked list\c_node.h
+
+1378384014 i:\aed\linked list\clistiterator.h
+	"C_Node.h"
+
+1377960628 source:e:\aed\linked list\main.cpp
+	<iostream>
+	<assert.h>
+	"CListTraits.h"
+	"C_List.h"
+
+1378220370 e:\aed\linked list\clisttraits.h
+	"CLess.h"
+	"CGreader.h"
+
+1377686792 e:\aed\linked list\cless.h
+
+1377686696 e:\aed\linked list\cgreader.h
+
+1378387268 e:\aed\linked list\c_list.h
+	<iostream>
+	"CListIterator.h"
+
+1378386518 e:\aed\linked list\clistiterator.h
+	"C_Node.h"
+
+1377570664 e:\aed\linked list\c_node.h
+
+1378412694 source:j:\aed\linked list\main.cpp
+	<iostream>
+	<assert.h>
+	"CListTraits.h"
+	"C_List.h"
+
+1378220370 j:\aed\linked list\clisttraits.h
+	"CLess.h"
+	"CGreader.h"
+
+1377686792 j:\aed\linked list\cless.h
+
+1377686696 j:\aed\linked list\cgreader.h
+
+1378412860 j:\aed\linked list\c_list.h
+	<iostream>
+	"CListIterator.h"
+
+1378412588 j:\aed\linked list\clistiterator.h
+	"C_Node.h"
+
+1377570664 j:\aed\linked list\c_node.h
+
+1378412652 source:f:\aed\linked list\main.cpp
+	<iostream>
+	<assert.h>
+	"CListTraits.h"
+	"C_List.h"
+
+1378220370 f:\aed\linked list\clisttraits.h
+	"CLess.h"
+	"CGreader.h"
+
+1377686792 f:\aed\linked list\cless.h
+
+1377686696 f:\aed\linked list\cgreader.h
+
+1378409706 f:\aed\linked list\c_list.h
+	<iostream>
+	"CListIterator.h"
+
+1378412588 f:\aed\linked list\clistiterator.h
+	"C_Node.h"
+
+1377570664 f:\aed\linked list\c_node.h
+
+1378412846 source:c:\users\usuario\desktop\linked list\tester.cpp
+	"Tester.h"
+
+1379012885 c:\users\usuario\desktop\linked list\tester.h
+	"CListTraits.h"
+	"C_List.h"
+	<iostream>
+	<assert.h>
+
+1379012868 source:c:\users\usuario\desktop\linked list\main.cpp
+	<iostream>
+	"Tester.h"
+
+1378220370 c:\users\usuario\desktop\linked list\clisttraits.h
+	"CLess.h"
+	"CGreader.h"
+
+1377686792 c:\users\usuario\desktop\linked list\cless.h
+
+1377686696 c:\users\usuario\desktop\linked list\cgreader.h
+
+1379007464 c:\users\usuario\desktop\linked list\c_list.h
+	<iostream>
+	"CListIterator.h"
+
+1378412588 c:\users\usuario\desktop\linked list\clistiterator.h
+	"C_Node.h"
+
+1377570664 c:\users\usuario\desktop\linked list\c_node.h
+
+1379028266 source:f:\san pablo\4 semestre\aed\estructuras\linked list\main.cpp
+	<iostream>
+	"Tester.h"
+
+1379259269 f:\san pablo\4 semestre\aed\estructuras\linked list\tester.h
+	"CListTraits.h"
+	"C_List.h"
+	<iostream>
+	<assert.h>
+
+1378220370 f:\san pablo\4 semestre\aed\estructuras\linked list\clisttraits.h
+	"CLess.h"
+	"CGreader.h"
+
+1377686792 f:\san pablo\4 semestre\aed\estructuras\linked list\cless.h
+
+1377686696 f:\san pablo\4 semestre\aed\estructuras\linked list\cgreader.h
+
+1379252482 f:\san pablo\4 semestre\aed\estructuras\linked list\c_list.h
+	<iostream>
+	"CListIterator.h"
+
+1379170594 f:\san pablo\4 semestre\aed\estructuras\linked list\clistiterator.h
+	"C_Node.h"
+
+1379171183 f:\san pablo\4 semestre\aed\estructuras\linked list\c_node.h
+
