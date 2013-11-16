@@ -15,14 +15,17 @@ class VectorBit
 
 	private:
 
-		unsigned char* Vector; 
+		unsigned char* Vector;
+		int SizeOfUnsignedChar;
 };
 
 
 VectorBit:: VectorBit(int Lenght)
 {
-	int temp=Lenght/sizeof(unsigned char);
-	if(Lenght%sizeof(unsigned char))
+	SizeOfUnsignedChar = (sizeof(unsigned char) * 8);
+
+	int temp = Lenght / SizeOfUnsignedChar;
+	if(Lenght % SizeOfUnsignedChar)
 		temp+=1;
 
 	Vector= new unsigned char[temp];
@@ -43,20 +46,22 @@ void VectorBit:: SetBit(int Pos, bool Value)
 	if(Value)
 	{
 		unsigned char temp=1;
-		temp<<=(Pos % sizeof(unsigned char));		
-		*(Vector + (Pos / sizeof(unsigned char) ) )|=temp;
+		temp<<=(Pos % SizeOfUnsignedChar);		
+		*(Vector + (Pos / SizeOfUnsignedChar ) ) |= temp;
+		return;
 	}
 
 	unsigned char temp=1;
-	temp<<=(Pos % sizeof(unsigned char));
-	*(Vector + (Pos / sizeof(unsigned char) ) ) &= (temp);
+	temp<<=(Pos % SizeOfUnsignedChar);
+	*(Vector + (Pos / SizeOfUnsignedChar ) ) &= (~temp);
 }
 
 bool VectorBit:: GetBit(int Pos)
 {
 	unsigned char temp=1;
-	temp<<=(Pos % sizeof(unsigned char));	
-	return (*(Vector + (Pos / sizeof(unsigned char) ) ) & temp);
+	temp<<=(Pos % SizeOfUnsignedChar);	
+	(temp &= *(Vector + (Pos / SizeOfUnsignedChar ) ));
+	return bool(temp);
 }
 
 
